@@ -20,17 +20,20 @@ body {
   );
 }
 .header{
-  margin: 0px;
-  padding: 0px;
-  height: 10vh;
+  height: 9vh;
   width: 100vw;
   background-color: #18FFFF;
-}
-.title{
-    color:white;
-    font-size:170%;
-    font-weight: bold;
-    text-align: center;
+  box-shadow: 0px 4px 2px -2px gray;
+  -webkit-box-shadow: 0px 4px 2px -2px gray;
+  -moz-box-shadow: 0px 4px 2px -2px gray;
+
+  display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+
+  font-size: 200%;
+  color:white;
+  font-weight: 900;
 }
 
 #sleepy {
