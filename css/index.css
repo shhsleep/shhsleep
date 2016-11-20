@@ -1,6 +1,6 @@
 body {
   margin: 0px;
-  background-color: ivory;
+  background-color: #FAFAFA;
 }
 
 .deco {
@@ -20,16 +20,16 @@ body {
   );
 }
 .header{
-  height: 4vh;
+  height: 6vh;
   width: 100vw;
-  background-color: #18FFFF;
+  background-color: #84FFFF;
   box-shadow: 0px 4px 2px -2px gray;
 
   display: table-cell;
 	vertical-align: middle;
 	padding-left: 50px;
 
-  font-size: 200%;
+  font-size: 120%;
   color:white;
   font-weight: 900;
 }
